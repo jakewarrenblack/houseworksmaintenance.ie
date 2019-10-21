@@ -564,12 +564,15 @@ pre code {
   .container {
     max-width: 540px;
   }
+  
 }
 
 @media (min-width: 768px) {
   .container {
     max-width: 720px;
   }
+
+    
 }
 
 @media (min-width: 992px) {
@@ -583,6 +586,8 @@ pre code {
     max-width: 1140px;
   }
 }
+
+
 
 .container-fluid {
   width: 100%;
@@ -1080,6 +1085,9 @@ pre code {
   .offset-md-11 {
     margin-left: 91.66667%;
   }
+    
+ 
+    
 }
 
 @media (min-width: 992px) {
