@@ -4,7 +4,9 @@
 
 ## Preview
 
+[![Freelancer Preview]("img/preview.png")]
 
+**[View Live Preview]("img/preview.png")**
 
 ## Status
 
