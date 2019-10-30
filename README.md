@@ -4,9 +4,9 @@
 
 ## Preview
 
-[![Freelancer Preview](https://startbootstrap.com/assets/img/screenshots/themes/freelancer.png)]
+<!--[![Freelancer Preview](https://startbootstrap.com/assets/img/screenshots/themes/freelancer.png)]
 
-**[View Live Preview](https://blackrockdigital.github.io/startbootstrap-freelancer/)**
+<!--**[View Live Preview](https://blackrockdigital.github.io/startbootstrap-freelancer/)**
 
 ## Status
 
